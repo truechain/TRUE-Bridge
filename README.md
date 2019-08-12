@@ -22,8 +22,8 @@
 * Audited source code, and access for Maker.
   * Preferably open source and thus verifiable by community.
 
-### Dai from ETH to TRUE
+### DAI from Ethereum to TrueChain
 ![ETH to TRUE](./docs/ETH2TRUE.jpg)
 
-### Dai from TRUE to ETH
+### Dai from TrueChain to Ethereum
 ![TRUE to ETH](./docs/TRUE2ETH.jpg)
